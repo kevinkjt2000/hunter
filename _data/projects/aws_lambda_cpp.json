@@ -1,0 +1,1942 @@
+[
+    {
+        "id": 2318621449,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDQ5",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621449",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621449",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:06Z",
+        "completed_at": "2021-04-11T19:36:35Z",
+        "name": "aws_lambda_cpp analyze-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:06.000Z",
+                "completed_at": "2021-04-11T19:36:08.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:08.000Z",
+                "completed_at": "2021-04-11T19:36:12.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:12.000Z",
+                "completed_at": "2021-04-11T19:36:12.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:12.000Z",
+                "completed_at": "2021-04-11T19:36:12.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:12.000Z",
+                "completed_at": "2021-04-11T19:36:12.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:12.000Z",
+                "completed_at": "2021-04-11T19:36:12.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:12.000Z",
+                "completed_at": "2021-04-11T19:36:35.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:36:35.000Z",
+                "completed_at": "2021-04-11T19:36:35.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:36:35.000Z",
+                "completed_at": "2021-04-11T19:36:35.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:36:35.000Z",
+                "completed_at": "2021-04-11T19:36:35.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621449"
+    },
+    {
+        "id": 2318621440,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDQw",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621440",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621440",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:07Z",
+        "completed_at": "2021-04-11T19:37:10Z",
+        "name": "aws_lambda_cpp android-ndk-r17-api-24-arm64-v8a-clang-libcxx14 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:07.000Z",
+                "completed_at": "2021-04-11T19:36:10.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:10.000Z",
+                "completed_at": "2021-04-11T19:36:16.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:16.000Z",
+                "completed_at": "2021-04-11T19:36:16.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:16.000Z",
+                "completed_at": "2021-04-11T19:36:16.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:16.000Z",
+                "completed_at": "2021-04-11T19:36:16.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:16.000Z",
+                "completed_at": "2021-04-11T19:36:16.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:16.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:10.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:37:10.000Z",
+                "completed_at": "2021-04-11T19:37:10.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621440"
+    },
+    {
+        "id": 2318621402,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDAy",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621402",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621402",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:07Z",
+        "completed_at": "2021-04-11T19:36:27Z",
+        "name": "aws_lambda_cpp clang-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:07.000Z",
+                "completed_at": "2021-04-11T19:36:11.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:11.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:26.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:36:26.000Z",
+                "completed_at": "2021-04-11T19:36:26.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:36:26.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621402"
+    },
+    {
+        "id": 2318621413,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDEz",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621413",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621413",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:07Z",
+        "completed_at": "2021-04-11T19:36:41Z",
+        "name": "aws_lambda_cpp gcc-7-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:07.000Z",
+                "completed_at": "2021-04-11T19:36:10.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:10.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:27.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:27.000Z",
+                "completed_at": "2021-04-11T19:36:40.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:36:40.000Z",
+                "completed_at": "2021-04-11T19:36:40.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:36:40.000Z",
+                "completed_at": "2021-04-11T19:36:41.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:36:41.000Z",
+                "completed_at": "2021-04-11T19:36:41.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621413"
+    },
+    {
+        "id": 2318621420,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDIw",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621420",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621420",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:06Z",
+        "completed_at": "2021-04-11T19:36:24Z",
+        "name": "aws_lambda_cpp gcc-8-cxx17-fpic ubuntu-18.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:06.000Z",
+                "completed_at": "2021-04-11T19:36:09.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:09.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:14.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:14.000Z",
+                "completed_at": "2021-04-11T19:36:24.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:36:24.000Z",
+                "completed_at": "2021-04-11T19:36:24.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:36:24.000Z",
+                "completed_at": "2021-04-11T19:36:24.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:36:24.000Z",
+                "completed_at": "2021-04-11T19:36:24.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621420"
+    },
+    {
+        "id": 2318621429,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDI5",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621429",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621429",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:07Z",
+        "completed_at": "2021-04-11T19:36:28Z",
+        "name": "aws_lambda_cpp gcc-9-cxx17-fpic ubuntu-20.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:07.000Z",
+                "completed_at": "2021-04-11T19:36:09.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:09.000Z",
+                "completed_at": "2021-04-11T19:36:13.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:36:13.000Z",
+                "completed_at": "2021-04-11T19:36:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:36:13.000Z",
+                "completed_at": "2021-04-11T19:36:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:36:13.000Z",
+                "completed_at": "2021-04-11T19:36:13.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:36:13.000Z",
+                "completed_at": "2021-04-11T19:36:13.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:36:13.000Z",
+                "completed_at": "2021-04-11T19:36:28.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:36:28.000Z",
+                "completed_at": "2021-04-11T19:36:28.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:36:28.000Z",
+                "completed_at": "2021-04-11T19:36:28.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:36:28.000Z",
+                "completed_at": "2021-04-11T19:36:28.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621429"
+    },
+    {
+        "id": 2318621544,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTQ0",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621544",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621544",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:37Z",
+        "completed_at": "2021-04-11T19:41:36Z",
+        "name": "aws_lambda_cpp ios-nocodesign-13-2-dep-9-3 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:37.000Z",
+                "completed_at": "2021-04-11T19:36:51.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:51.000Z",
+                "completed_at": "2021-04-11T19:37:23.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:23.000Z",
+                "completed_at": "2021-04-11T19:37:23.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:24.000Z",
+                "completed_at": "2021-04-11T19:37:24.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:24.000Z",
+                "completed_at": "2021-04-11T19:37:24.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:24.000Z",
+                "completed_at": "2021-04-11T19:37:24.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:24.000Z",
+                "completed_at": "2021-04-11T19:41:35.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:41:35.000Z",
+                "completed_at": "2021-04-11T19:41:35.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:41:35.000Z",
+                "completed_at": "2021-04-11T19:41:35.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:41:35.000Z",
+                "completed_at": "2021-04-11T19:41:36.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621544"
+    },
+    {
+        "id": 2318621612,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNjEy",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621612",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621612",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:35Z",
+        "completed_at": "2021-04-11T19:37:53Z",
+        "name": "aws_lambda_cpp mingw-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:35.000Z",
+                "completed_at": "2021-04-11T19:36:39.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:39.000Z",
+                "completed_at": "2021-04-11T19:37:06.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:06.000Z",
+                "completed_at": "2021-04-11T19:37:06.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:06.000Z",
+                "completed_at": "2021-04-11T19:37:06.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:06.000Z",
+                "completed_at": "2021-04-11T19:37:07.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:07.000Z",
+                "completed_at": "2021-04-11T19:37:07.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:07.000Z",
+                "completed_at": "2021-04-11T19:37:07.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:37:07.000Z",
+                "completed_at": "2021-04-11T19:37:44.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:37:44.000Z",
+                "completed_at": "2021-04-11T19:37:53.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:37:53.000Z",
+                "completed_at": "2021-04-11T19:37:53.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621612"
+    },
+    {
+        "id": 2318621628,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNjI4",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621628",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621628",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:36Z",
+        "completed_at": "2021-04-11T19:38:21Z",
+        "name": "aws_lambda_cpp msys-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:36.000Z",
+                "completed_at": "2021-04-11T19:36:42.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:42.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:38:11.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:38:11.000Z",
+                "completed_at": "2021-04-11T19:38:21.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:38:21.000Z",
+                "completed_at": "2021-04-11T19:38:21.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621628"
+    },
+    {
+        "id": 2318621551,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTUx",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621551",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621551",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:44Z",
+        "completed_at": "2021-04-11T19:38:15Z",
+        "name": "aws_lambda_cpp ninja-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:44.000Z",
+                "completed_at": "2021-04-11T19:36:47.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:47.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:08.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:08.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:37:09.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:37:09.000Z",
+                "completed_at": "2021-04-11T19:38:08.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:38:08.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621551"
+    },
+    {
+        "id": 2318621558,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTU4",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621558",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621558",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:36:51Z",
+        "completed_at": "2021-04-11T19:38:07Z",
+        "name": "aws_lambda_cpp nmake-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:36:51.000Z",
+                "completed_at": "2021-04-11T19:36:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:36:54.000Z",
+                "completed_at": "2021-04-11T19:37:15.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:15.000Z",
+                "completed_at": "2021-04-11T19:37:15.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:15.000Z",
+                "completed_at": "2021-04-11T19:37:15.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:15.000Z",
+                "completed_at": "2021-04-11T19:37:17.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:17.000Z",
+                "completed_at": "2021-04-11T19:37:17.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:17.000Z",
+                "completed_at": "2021-04-11T19:37:17.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:37:17.000Z",
+                "completed_at": "2021-04-11T19:37:58.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:37:58.000Z",
+                "completed_at": "2021-04-11T19:38:07.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:38:07.000Z",
+                "completed_at": "2021-04-11T19:38:07.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621558"
+    },
+    {
+        "id": 2318621523,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTIz",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621523",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621523",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:37:23Z",
+        "completed_at": "2021-04-11T19:39:15Z",
+        "name": "aws_lambda_cpp osx-10-13-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:37:23.000Z",
+                "completed_at": "2021-04-11T19:37:26.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:37:26.000Z",
+                "completed_at": "2021-04-11T19:37:31.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:37:31.000Z",
+                "completed_at": "2021-04-11T19:37:32.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:37:32.000Z",
+                "completed_at": "2021-04-11T19:37:32.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:37:32.000Z",
+                "completed_at": "2021-04-11T19:37:32.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:37:32.000Z",
+                "completed_at": "2021-04-11T19:37:32.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:37:32.000Z",
+                "completed_at": "2021-04-11T19:39:14.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:14.000Z",
+                "completed_at": "2021-04-11T19:39:14.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:39:14.000Z",
+                "completed_at": "2021-04-11T19:39:15.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:39:15.000Z",
+                "completed_at": "2021-04-11T19:39:15.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621523"
+    },
+    {
+        "id": 2318621512,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTEy",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621512",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621512",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:38:07Z",
+        "completed_at": "2021-04-11T19:38:45Z",
+        "name": "aws_lambda_cpp osx-10-13-make-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:38:07.000Z",
+                "completed_at": "2021-04-11T19:38:09.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:38:09.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:15.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:38:15.000Z",
+                "completed_at": "2021-04-11T19:38:44.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:38:44.000Z",
+                "completed_at": "2021-04-11T19:38:44.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:38:44.000Z",
+                "completed_at": "2021-04-11T19:38:45.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:38:45.000Z",
+                "completed_at": "2021-04-11T19:38:45.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621512"
+    },
+    {
+        "id": 2318621533,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTMz",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621533",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621533",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:38:28Z",
+        "completed_at": "2021-04-11T19:43:12Z",
+        "name": "aws_lambda_cpp osx-10-15-dep-10-10-cxx17 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:38:29.000Z",
+                "completed_at": "2021-04-11T19:38:39.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:38:39.000Z",
+                "completed_at": "2021-04-11T19:38:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:38:58.000Z",
+                "completed_at": "2021-04-11T19:38:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:38:59.000Z",
+                "completed_at": "2021-04-11T19:38:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:38:59.000Z",
+                "completed_at": "2021-04-11T19:38:59.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:38:59.000Z",
+                "completed_at": "2021-04-11T19:38:59.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:38:59.000Z",
+                "completed_at": "2021-04-11T19:43:12.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:43:12.000Z",
+                "completed_at": "2021-04-11T19:43:12.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:43:12.000Z",
+                "completed_at": "2021-04-11T19:43:12.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:43:12.000Z",
+                "completed_at": "2021-04-11T19:43:12.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621533"
+    },
+    {
+        "id": 2318621459,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDU5",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621459",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621459",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:38:26Z",
+        "completed_at": "2021-04-11T19:39:00Z",
+        "name": "aws_lambda_cpp sanitize-address-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:38:26.000Z",
+                "completed_at": "2021-04-11T19:38:31.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:38:31.000Z",
+                "completed_at": "2021-04-11T19:38:37.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:38:37.000Z",
+                "completed_at": "2021-04-11T19:38:37.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:38:37.000Z",
+                "completed_at": "2021-04-11T19:38:37.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:38:37.000Z",
+                "completed_at": "2021-04-11T19:38:37.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:38:37.000Z",
+                "completed_at": "2021-04-11T19:38:37.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:38:37.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621459"
+    },
+    {
+        "id": 2318621475,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNDc1",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621475",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621475",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:38:28Z",
+        "completed_at": "2021-04-11T19:38:55Z",
+        "name": "aws_lambda_cpp sanitize-leak-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:38:28.000Z",
+                "completed_at": "2021-04-11T19:38:31.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:38:31.000Z",
+                "completed_at": "2021-04-11T19:38:36.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:38:36.000Z",
+                "completed_at": "2021-04-11T19:38:36.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:38:36.000Z",
+                "completed_at": "2021-04-11T19:38:36.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:38:36.000Z",
+                "completed_at": "2021-04-11T19:38:36.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:38:36.000Z",
+                "completed_at": "2021-04-11T19:38:36.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:38:36.000Z",
+                "completed_at": "2021-04-11T19:38:55.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:38:55.000Z",
+                "completed_at": "2021-04-11T19:38:55.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:38:55.000Z",
+                "completed_at": "2021-04-11T19:38:55.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:38:55.000Z",
+                "completed_at": "2021-04-11T19:38:55.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621475"
+    },
+    {
+        "id": 2318621500,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTAw",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621500",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621500",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:38:52Z",
+        "completed_at": "2021-04-11T19:39:17Z",
+        "name": "aws_lambda_cpp sanitize-thread-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:38:52.000Z",
+                "completed_at": "2021-04-11T19:38:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:38:55.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:00.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-11T19:39:00.000Z",
+                "completed_at": "2021-04-11T19:39:17.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:17.000Z",
+                "completed_at": "2021-04-11T19:39:17.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:39:17.000Z",
+                "completed_at": "2021-04-11T19:39:17.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:39:17.000Z",
+                "completed_at": "2021-04-11T19:39:17.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621500"
+    },
+    {
+        "id": 2318621596,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTk2",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621596",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621596",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:39:03Z",
+        "completed_at": "2021-04-11T19:41:32Z",
+        "name": "aws_lambda_cpp vs-14-2015-sdk-8-1 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:39:03.000Z",
+                "completed_at": "2021-04-11T19:39:05.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:39:05.000Z",
+                "completed_at": "2021-04-11T19:39:25.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:39:25.000Z",
+                "completed_at": "2021-04-11T19:39:26.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:39:26.000Z",
+                "completed_at": "2021-04-11T19:39:26.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:39:26.000Z",
+                "completed_at": "2021-04-11T19:39:27.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:39:27.000Z",
+                "completed_at": "2021-04-11T19:39:27.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:39:27.000Z",
+                "completed_at": "2021-04-11T19:39:27.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:27.000Z",
+                "completed_at": "2021-04-11T19:41:23.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:41:23.000Z",
+                "completed_at": "2021-04-11T19:41:32.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:41:32.000Z",
+                "completed_at": "2021-04-11T19:41:32.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621596"
+    },
+    {
+        "id": 2318621586,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTg2",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621586",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621586",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:39:09Z",
+        "completed_at": "2021-04-11T19:41:16Z",
+        "name": "aws_lambda_cpp vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:39:09.000Z",
+                "completed_at": "2021-04-11T19:39:12.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:39:12.000Z",
+                "completed_at": "2021-04-11T19:39:31.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:39:31.000Z",
+                "completed_at": "2021-04-11T19:39:32.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:39:32.000Z",
+                "completed_at": "2021-04-11T19:39:32.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:39:32.000Z",
+                "completed_at": "2021-04-11T19:39:32.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:39:32.000Z",
+                "completed_at": "2021-04-11T19:39:33.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:39:33.000Z",
+                "completed_at": "2021-04-11T19:39:33.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:33.000Z",
+                "completed_at": "2021-04-11T19:41:07.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:41:07.000Z",
+                "completed_at": "2021-04-11T19:41:16.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:41:16.000Z",
+                "completed_at": "2021-04-11T19:41:16.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621586"
+    },
+    {
+        "id": 2318621576,
+        "run_id": 738926566,
+        "run_url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/runs/738926566",
+        "node_id": "MDg6Q2hlY2tSdW4yMzE4NjIxNTc2",
+        "head_sha": "3c9f768ad527d92973e005ef27a8c401031a912b",
+        "url": "https://api.github.com/repos/kevinkjt2000/hunter/actions/jobs/2318621576",
+        "html_url": "https://github.com/kevinkjt2000/hunter/runs/2318621576",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-11T19:39:24Z",
+        "completed_at": "2021-04-11T19:40:58Z",
+        "name": "aws_lambda_cpp vs-16-2019-win64-cxx17 windows-2019",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-11T19:39:24.000Z",
+                "completed_at": "2021-04-11T19:39:28.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-11T19:39:28.000Z",
+                "completed_at": "2021-04-11T19:39:44.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-11T19:39:44.000Z",
+                "completed_at": "2021-04-11T19:39:44.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-11T19:39:44.000Z",
+                "completed_at": "2021-04-11T19:39:44.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-11T19:39:44.000Z",
+                "completed_at": "2021-04-11T19:39:45.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-11T19:39:45.000Z",
+                "completed_at": "2021-04-11T19:39:45.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-11T19:39:45.000Z",
+                "completed_at": "2021-04-11T19:39:45.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-04-11T19:39:45.000Z",
+                "completed_at": "2021-04-11T19:40:55.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-11T19:40:55.000Z",
+                "completed_at": "2021-04-11T19:40:58.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-11T19:40:58.000Z",
+                "completed_at": "2021-04-11T19:40:58.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/kevinkjt2000/hunter/check-runs/2318621576"
+    }
+]
